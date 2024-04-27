@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2024 AFCMS <afcm.contact@gmail.com>
+SPDX-License-Identifier: GPL-3.0-or-later
+-->
+
 # DevPet Meta
 
 [devpet-repo-meta]: https://github.com/AFCMS/devpet_meta
