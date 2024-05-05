@@ -12,14 +12,12 @@ message: >-
 type: software
 authors:
   - email: afcm.contact@gmail.com
-    orcid: "https://orcid.org/0009-0005-4161-6228"
+    orcid: 'https://orcid.org/0009-0005-4161-6228'
     given-names: AFCM
-repository-code: "https://github.com/AFCMS/devpet"
-repository: "https://github.com/AFCMS/devpet_meta"
-abstract: IoT personal developer pet
+repository: 'https://github.com/AFCMS/devpet_meta'
+abstract: Personal developer pet
 keywords:
   - GitHub
-  - IoT
   - PlatformIO
   - ESP32
   - NodeJS
