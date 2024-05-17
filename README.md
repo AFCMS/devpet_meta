@@ -22,3 +22,4 @@ SPDX-License-Identifier: GPL-3.0-or-later
 ## Thanks to
 
 - [ASCII Draw](https://github.com/Nokse22/ascii-draw) (backend startup logo)
+- [Marp](https://marp.app) (Markdown presentations)
