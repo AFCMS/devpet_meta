@@ -27,5 +27,7 @@ SPDX-License-Identifier: GPL-3.0-or-later
 ## Thanks to
 
 -   [PlatformIO](https://platformio.org) (embed development toolkit)
+-   [image2cpp](https://javl.github.io/image2cpp) (bitmap to C++ array converter)
+-   [Octicons](https://primer.style/foundations/icons) (many GitHub icons source)
 -   [ASCII Draw](https://github.com/Nokse22/ascii-draw) (backend startup logo)
 -   [Marp](https://marp.app) (Markdown presentations)
