@@ -1,0 +1,40 @@
+# SPDX-FileCopyrightText: 2024 AFCMS <afcm.contact@gmail.com>
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+---
+name: Marp
+
+on:
+  push:
+    branches: ["master"]
+  pull_request:
+    branches: ["master"]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: ".nvmrc"
+
+      - name: Install Chromium
+        run: sudo apt-get install -y chromium-browser
+
+      # https://github.com/marp-team/marp-cli
+      - name: Install Marp CLI
+        run: npm install -g @marp-team/marp-cli
+
+      - name: Build PDF Slide Deck
+        run: marp --pdf ./documents/presentation/presentation_fr-FR.md
+
+      - name: Upload PDF Slide Deck
+        uses: actions/upload-artifact@v4
+        with:
+          name: presentation_fr-FR
+          path: ./documents/presentation/presentation_fr-FR.pdf
