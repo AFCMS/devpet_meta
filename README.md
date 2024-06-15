@@ -19,11 +19,24 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
 ## Hardware
 
+### Components
+
 | Name      | Description                          | Link                                                                  |
 | --------- | ------------------------------------ | --------------------------------------------------------------------- |
 | ESP32     | Microcontroler                       |                                                                       |
 | SSD1306   | OLED 128x64 monochrome 0.96" display | [Az-Delivery](https://www.az-delivery.de/fr/products/0-96zolldisplay) |
 | Button x3 | 12x12x7.3mm push buttons             | [Amazon FR](https://amzn.eu/d/iSc4HgD)                                |
+
+### 3D Printed Parts
+
+Multiple 3D assets are present in this repository:
+
+| Description                                                   |
+| ------------------------------------------------------------- |
+| [STL Files](./hardware/3d)                                    |
+| [3MF File (from Bambu Studio)](./hardware/3d/devpet_case.3mf) |
+| [Fusion360 Archive](./hardware/3d/devpet_case_v15.f3z)        |
+| [Fusion360 Cloud Project](https://a360.co/4bYumfe)            |
 
 ## Built with
 
