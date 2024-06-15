@@ -29,14 +29,18 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
 ### 3D Printed Parts
 
-Multiple 3D assets are present in this repository:
-
 | Description                                                   |
 | ------------------------------------------------------------- |
 | [STL Files](./hardware/3d)                                    |
 | [3MF File (from Bambu Studio)](./hardware/3d/devpet_case.3mf) |
 | [Fusion360 Archive](./hardware/3d/devpet_case_v15.f3z)        |
 | [Fusion360 Cloud Project](https://a360.co/4bYumfe)            |
+
+### Schematics
+
+[Wokwi Diagram](./hardware/wokwi-diagram.json)
+
+![Wokwi Diagram](./documents/images/wokwi_diagram.png)
 
 ## Built with
 
