@@ -34,5 +34,5 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
 ## Thanks to
 
-- @Eladji for providing me the Fusion360 models for the base components
-- @AKArien0 for the [inspiration](https://github.com/AKArien0/arduino-input-handler) for the embed input handler
+- [@Eladji](https://github.com/eladji) for providing me the Fusion360 models for the base components
+- [@AKArien0](https://github.com/AKArien0) for the [inspiration](https://github.com/AKArien0/arduino-input-handler) for the embed input handler
