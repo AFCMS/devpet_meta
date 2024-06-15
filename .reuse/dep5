@@ -6,3 +6,19 @@ Source: https://github.com/AFCMS/devpet_meta
 Files: .nvmrc
 Copyright: 2024 AFCMS <afcm.contact@gmail.com>
 License: CC0-1.0
+
+Files: hardware/wokwi-diagram.json
+Copyright: 2024 AFCMS <afcm.contact@gmail.com>
+License: CC-BY-4.0
+
+Files: hardware/3d/devpet_case.3mf
+Copyright: 2024 AFCMS <afcm.contact@gmail.com>
+License: CC-BY-4.0
+
+Files: hardware/3d/devpet_case_v15.f3z
+Copyright: 2024 AFCMS <afcm.contact@gmail.com>
+License: CC-BY-4.0
+
+Files: hardware/3d/*.stl
+Copyright: 2024 AFCMS <afcm.contact@gmail.com>
+License: CC-BY-4.0
