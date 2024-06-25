@@ -36,6 +36,8 @@ SPDX-License-Identifier: GPL-3.0-or-later
 | [Fusion360 Archive](./hardware/3d/devpet_case_v15.f3z)        |
 | [Fusion360 Cloud Project](https://a360.co/4bYumfe)            |
 
+The final project have been printed on a [Bambu Lab X1E](https://bambulab.com/en/x1e) using an ABS filament and a 0.4mm nozzle.
+
 ### Schematics
 
 [Wokwi Diagram](./hardware/wokwi-diagram.json)
@@ -49,8 +51,10 @@ SPDX-License-Identifier: GPL-3.0-or-later
 -   [Octicons](https://primer.style/foundations/icons) (many GitHub icons source)
 -   [ASCII Draw](https://github.com/Nokse22/ascii-draw) (backend startup logo)
 -   [Marp](https://marp.app) (Markdown presentations)
+-   [LibreSprite](https://libresprite.github.io) (the dinosaur sprites)
 
 ## Thanks to
 
 -   [@Eladji](https://github.com/eladji) for providing me the Fusion360 models for the base components
 -   [@AKArien0](https://github.com/AKArien0) for the [inspiration](https://github.com/AKArien0/arduino-input-handler) for the embed input handler
+-   My friend [@Klhmt](https://github.com/Klhmt) for the main dinosaur sprites and animations
