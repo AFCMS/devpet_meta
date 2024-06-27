@@ -58,6 +58,7 @@ You can find the ODG file [here](./hardware/devpet_box.odg)
 -   [Octicons](https://primer.style/foundations/icons) (many GitHub icons source)
 -   [ASCII Draw](https://github.com/Nokse22/ascii-draw) (backend startup logo)
 -   [Marp](https://marp.app) (Markdown presentations)
+-   [GIMP](https://www.gimp.org) (many textures)
 -   [LibreSprite](https://libresprite.github.io) (the dinosaur sprites)
 -   [LibreOffice Draw](https://www.libreoffice.org/discover/draw) (paper box design)
 
