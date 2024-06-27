@@ -44,14 +44,22 @@ The final project have been printed on a [Bambu Lab X1E](https://bambulab.com/en
 
 ![Wokwi Diagram](./documents/images/wokwi_diagram.png)
 
+### Paper Box
+
+A paper box have been built to contain the DevPet.
+
+You can find the ODG file [here](./hardware/devpet_box.odg)
+
 ## Built with
 
+-   [GitHub](https://github.com) (source code hosting, CI, project management :heart:)
 -   [PlatformIO](https://platformio.org) (embed development toolkit)
 -   [image2cpp](https://javl.github.io/image2cpp) (bitmap to C++ array converter)
 -   [Octicons](https://primer.style/foundations/icons) (many GitHub icons source)
 -   [ASCII Draw](https://github.com/Nokse22/ascii-draw) (backend startup logo)
 -   [Marp](https://marp.app) (Markdown presentations)
 -   [LibreSprite](https://libresprite.github.io) (the dinosaur sprites)
+-   [LibreOffice Draw](https://www.libreoffice.org/discover/draw) (paper box design)
 
 ## Thanks to
 
