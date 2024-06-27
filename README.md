@@ -9,6 +9,10 @@ SPDX-License-Identifier: GPL-3.0-or-later
 [devpet-repo-core]: https://github.com/AFCMS/devpet
 [devpet-repo-backend]: https://github.com/AFCMS/devpet_backend
 
+A developer pet project, a small ESP32 based device with an OLED display buttons. It connects to your computer via Bluetooth where you need to run the backend which communicates with the device via serial.
+
+To keep your virtual pet alive and happy, you need to be active on GitHub by creating issues, pull requests, and commits. The more active you are, the healthier your pet will be. You also need to make the pet happy by listening to music on Spotify or playing the integrated minigame.
+
 ## Repositories
 
 | Repository                            | Description                                    |
