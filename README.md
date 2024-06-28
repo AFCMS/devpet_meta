@@ -11,7 +11,9 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
 A developer pet project, a small ESP32 based device with an OLED display buttons. It connects to your computer via Bluetooth where you need to run the backend which communicates with the device via serial.
 
-To keep your virtual pet alive and happy, you need to be active on GitHub by creating issues, pull requests, and commits. The more active you are, the healthier your pet will be. You also need to make the pet happy by listening to music on Spotify or playing the integrated minigame.
+To keep your virtual pet alive and happy, you need to be active on GitHub by creating issues, pull requests, and commits. The more active you are, the healthier your pet will be. You also need to make the pet happy by listening to music on Spotify or playing the integrated minigame. Oh and don't forget to feed it with coffee regularly! ☕
+
+To get started, you need to flash the ESP32 using the instructions from the [DevPet repository][devpet-repo-core] if your ESP32 isn't yet flashed. Then you can pair the Bluetooth device "DevPet" from your computer. You then need to setup the tokens for API fetching for both GitHub and Spotify and run the backend using the instructions from the [DevPet Backend repository][devpet-repo-backend].
 
 ## Repositories
 
