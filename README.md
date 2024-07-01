@@ -15,6 +15,8 @@ To keep your virtual pet alive and happy, you need to be active on GitHub by cre
 
 To get started, you need to flash the ESP32 using the instructions from the [DevPet repository][devpet-repo-core] if your ESP32 isn't yet flashed. Then you can pair the Bluetooth device "DevPet" from your computer. You then need to setup the tokens for API fetching for both GitHub and Spotify and run the backend using the instructions from the [DevPet Backend repository][devpet-repo-backend].
 
+This project have been build as a part of my studies at [Hexagone School](https://www.ecole-hexagone.com)
+
 ## Repositories
 
 | Repository                            | Description                                    |
